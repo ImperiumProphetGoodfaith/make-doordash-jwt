@@ -1,4 +1,4 @@
-# `make-doordash-jwt`
+    ==(# `make-doordash-jwt`
 
 This simple CLI tool takes a DoorDash Access Key (a JSON object comprised of a `developerId`, `key_id`, and `signing_secret`) and creates a JWT.
 
